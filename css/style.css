@@ -1,0 +1,14 @@
+.box {
+  width: 500px;
+  height: 300px;
+}
+
+.px-3 {
+  padding: 0px 16px;
+}
+
+/*@media (min-width: 768px) {
+  body {
+    background-color: red;
+  }
+}*/
